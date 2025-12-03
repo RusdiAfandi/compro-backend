@@ -1,0 +1,632 @@
+[
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 1",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Kalkulus",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Logika Matematika",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Matematika Diskrit",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Statistika",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Agama",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Pancasila",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Pendidikan Karakter",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 1",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Kalkulus",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Logika Matematika",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Matematika Diskrit",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Statistika",
+    "SKS": "2",
+    "Nilai": "AB",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Agama",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Pancasila",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Pendidikan Karakter",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 1",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Kalkulus",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Logika Matematika",
+    "SKS": "3",
+    "Nilai": "BC",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Matematika Diskrit",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Statistika",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Agama",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Pancasila",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Pendidikan Karakter",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 1",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Kalkulus",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Logika Matematika",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Matematika Diskrit",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Statistika",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Agama",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Pancasila",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Pendidikan Karakter",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 1",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Kalkulus",
+    "SKS": "3",
+    "Nilai": "C",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Logika Matematika",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Matematika Diskrit",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Statistika",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Agama",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Pancasila",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Pendidikan Karakter",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 1",
+    "SKS": "3",
+    "Nilai": "C",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Kalkulus",
+    "SKS": "3",
+    "Nilai": "C",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Logika Matematika",
+    "SKS": "3",
+    "Nilai": "C",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Matematika Diskrit",
+    "SKS": "3",
+    "Nilai": "C",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Statistika",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Agama",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Bahasa Inggris",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Pendidikan Karakter",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "1"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 2",
+    "SKS": "4",
+    "Nilai": "AB",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Bahasa Inggris",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Etika dalam AI",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Kalkulus Lanjut",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Matriks dan Ruang Vektor",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Organisasi dan Arsitektur Komputer",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Pemodelan Basis Data",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 2",
+    "SKS": "4",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Bahasa Inggris",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Etika dalam AI",
+    "SKS": "2",
+    "Nilai": "AB",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Kalkulus Lanjut",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Matriks dan Ruang Vektor",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Organisasi dan Arsitektur Komputer",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Pemodelan Basis Data",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 2",
+    "SKS": "4",
+    "Nilai": "BC",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Bahasa Inggris",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Etika dalam AI",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Kalkulus Lanjut",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Matriks dan Ruang Vektor",
+    "SKS": "3",
+    "Nilai": "C",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Organisasi dan Arsitektur Komputer",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farid Rahman ",
+    "MK yang Pernah Diambil": "Pemodelan Basis Data",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 2",
+    "SKS": "4",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Bahasa Inggris",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Etika dalam AI",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Kalkulus Lanjut",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Matriks dan Ruang Vektor",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Organisasi dan Arsitektur Komputer",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Pemodelan Basis Data",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 2",
+    "SKS": "4",
+    "Nilai": "BC",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Bahasa Inggris",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Etika dalam AI",
+    "SKS": "2",
+    "Nilai": "AB",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Kalkulus Lanjut",
+    "SKS": "3",
+    "Nilai": "C",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Matriks dan Ruang Vektor",
+    "SKS": "3",
+    "Nilai": "BC",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Organisasi dan Arsitektur Komputer",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Pemodelan Basis Data",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Algoritma dan Pemrograman 2",
+    "SKS": "4",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Bahasa Inggris",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Etika dalam AI",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Kalkulus Lanjut",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Matriks dan Ruang Vektor",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Organisasi dan Arsitektur Komputer",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  },
+  {
+    "Nama": "Akbar Setiawan",
+    "MK yang Pernah Diambil": "Pemodelan Basis Data",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "2"
+  }
+]

@@ -1,0 +1,75 @@
+DB Dump Start
+
+--- Database Statistics ---
+Students: 13
+Courses: 65
+Grades: 176
+
+--- Sample Student ---
+{
+  "_id": "6921a165cf1a4b43544af635",
+  "nim": "1301221234",
+  "nama": "Iwan Awan Setiawan",
+  "email_sso": "iwanawan@student.telkomuniversity.ac.id",
+  "password": "$2b$10$YPZCEvdYHpRYtjgdWLLKMuli9DxNEH2G3icD4ZVlM2CWUo8Hd.Qq.",
+  "jurusan": "S1 Informatika",
+  "fakultas": "Informatika",
+  "angkatan": 2022,
+  "sks_total": 118,
+  "ipk": 3.66,
+  "tak": 58,
+  "ikk": 1.93,
+  "sks_tingkat": {
+    "tingkat_1": "40",
+    "tingkat_2": "39",
+    "tingkat_3": "39",
+    "tingkat_4": "-"
+  },
+  "ip_tingkat": {
+    "tingkat_1": "3.66",
+    "tingkat_2": "3.62",
+    "tingkat_3": "3.69",
+    "tingkat_4": "-"
+  },
+  "createdAt": "2025-11-22T11:41:25.570Z",
+  "updatedAt": "2025-11-22T12:09:34.275Z",
+  "__v": 0,
+  "interests": {
+    "hard_skills": [
+      "Machine Learning",
+      "Python"
+    ],
+    "soft_skills": [
+      "Communication"
+    ]
+  }
+}
+
+--- Sample Course (With Semester?) ---
+WARNING: No courses found with 'semester' field set!
+Random Course:
+{
+  "_id": "6921a165cf1a4b43544af5f1",
+  "nama_mk": "Algoritma dan Pemrograman 1",
+  "sks": 3,
+  "tingkat": "TINGKAT I",
+  "is_elective": false,
+  "__v": 0,
+  "createdAt": "2025-11-22T11:41:25.561Z",
+  "updatedAt": "2025-11-22T11:41:25.561Z"
+}
+
+--- Sample Grade ---
+{
+  "_id": "6921a165cf1a4b43544af639",
+  "student": "6921a165cf1a4b43544af635",
+  "course": "6921a165cf1a4b43544af5f1",
+  "nama_mk": "Algoritma dan Pemrograman 1",
+  "sks": 3,
+  "nilai": "A",
+  "semester": "1",
+  "nilai_angka": 0,
+  "__v": 0,
+  "createdAt": "2025-11-22T11:41:25.632Z",
+  "updatedAt": "2025-11-22T11:41:25.632Z"
+}

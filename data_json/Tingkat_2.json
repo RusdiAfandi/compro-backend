@@ -1,0 +1,394 @@
+[
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Analisis dan Perancangan PL",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Analisis Kompleksitas Algoritma",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Sistem Basis Data",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Sistem Operasi",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Struktur Data",
+    "SKS": "4",
+    "Nilai": "A",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Teori Bahasa dan Automata",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Teori Peluang",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Bahasa Indonesia",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "3 (Fast Track)"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Analisis dan Perancangan PL",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Analisis Kompleksitas Algoritma",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Sistem Basis Data",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Sistem Operasi",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Struktur Data",
+    "SKS": "4",
+    "Nilai": "A",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Teori Bahasa dan Automata",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Teori Peluang",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Analisis dan Perancangan PL",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Analisis Kompleksitas Algoritma",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Sistem Basis Data",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Sistem Operasi",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Struktur Data",
+    "SKS": "4",
+    "Nilai": "AB",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Teori Bahasa dan Automata",
+    "SKS": "2",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Teori Peluang",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Bahasa Indonesia",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "3 (Fast Track)"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Analisis dan Perancangan PL",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Analisis Kompleksitas Algoritma",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Sistem Basis Data",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Sistem Operasi",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Struktur Data",
+    "SKS": "4",
+    "Nilai": "B",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Teori Bahasa dan Automata",
+    "SKS": "2",
+    "Nilai": "AB",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Teori Peluang",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "3"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Dasar Kecerdasan Artifisial",
+    "SKS": "3",
+    "Nilai": "BC",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Interaksi Manusia Komputer",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Jaringan Komputer",
+    "SKS": "4",
+    "Nilai": "B",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Pemrograman Berorientasi Objek",
+    "SKS": "4",
+    "Nilai": "A",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Strategi Algoritma",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Wawasan Global TIK",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Iwan Awan Setiawan",
+    "MK yang Pernah Diambil": "Implementasi dan Pengujian PL",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "4 (Fast Track)"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Dasar Kecerdasan Artifisial",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Interaksi Manusia Komputer",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Jaringan Komputer",
+    "SKS": "4",
+    "Nilai": "BC",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Pemrograman Berorientasi Objek",
+    "SKS": "4",
+    "Nilai": "A",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Strategi Algoritma",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Daffa Muhammad Pratama",
+    "MK yang Pernah Diambil": "Wawasan Global TIK",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Dasar Kecerdasan Artifisial",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Interaksi Manusia Komputer",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Jaringan Komputer",
+    "SKS": "4",
+    "Nilai": "AB",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Pemrograman Berorientasi Objek",
+    "SKS": "4",
+    "Nilai": "AB",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Strategi Algoritma",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Wawasan Global TIK",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Farunada Firda",
+    "MK yang Pernah Diambil": "Implementasi dan Pengujian PL",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "4 (Fast Track)"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Dasar Kecerdasan Artifisial",
+    "SKS": "3",
+    "Nilai": "A",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Interaksi Manusia Komputer",
+    "SKS": "3",
+    "Nilai": "B",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Jaringan Komputer",
+    "SKS": "4",
+    "Nilai": "B",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Pemrograman Berorientasi Objek",
+    "SKS": "4",
+    "Nilai": "AB",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Strategi Algoritma",
+    "SKS": "3",
+    "Nilai": "AB",
+    "Semester": "4"
+  },
+  {
+    "Nama": "Muhammad Agus Wahyudi",
+    "MK yang Pernah Diambil": "Wawasan Global TIK",
+    "SKS": "2",
+    "Nilai": "A",
+    "Semester": "4"
+  }
+]

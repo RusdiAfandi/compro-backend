@@ -1,0 +1,359 @@
+[
+  {
+    "Nama MK": "Algoritma dan Pemrograman 1",
+    "Nama MK (EN)": "Algorithm and Programming 1",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "1"
+  },
+  {
+    "Nama MK": "Kalkulus",
+    "Nama MK (EN)": "Calculus",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "1"
+  },
+  {
+    "Nama MK": "Logika Matematika",
+    "Nama MK (EN)": "Mathematical Logic",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "1"
+  },
+  {
+    "Nama MK": "Matematika Diskrit",
+    "Nama MK (EN)": "Discrete Mathematics",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "1"
+  },
+  {
+    "Nama MK": "Statistika",
+    "Nama MK (EN)": "Statistics",
+    "SKS": "2",
+    "Status MK": "DITAWARKAN",
+    "Semester": "1"
+  },
+  {
+    "Nama MK": "Agama",
+    "Nama MK (EN)": "Religion",
+    "SKS": "2",
+    "Status MK": "DITAWARKAN",
+    "Semester": "1"
+  },
+  {
+    "Nama MK": "Pancasila",
+    "Nama MK (EN)": "Pancasila",
+    "SKS": "2",
+    "Status MK": "DITAWARKAN",
+    "Semester": "1"
+  },
+  {
+    "Nama MK": "Pendidikan Karakter",
+    "Nama MK (EN)": "Character Education",
+    "SKS": "2",
+    "Status MK": "DITAWARKAN",
+    "Semester": "1"
+  },
+  {
+    "Nama MK": "Algoritma dan Pemrograman 2",
+    "Nama MK (EN)": "Algorithm and Programming 2",
+    "SKS": "4",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "2"
+  },
+  {
+    "Nama MK": "Bahasa Inggris",
+    "Nama MK (EN)": "English",
+    "SKS": "2",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "2"
+  },
+  {
+    "Nama MK": "Etika dalam AI",
+    "Nama MK (EN)": "Ethics on AI",
+    "SKS": "2",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "2"
+  },
+  {
+    "Nama MK": "Kalkulus Lanjut",
+    "Nama MK (EN)": "Advanced Calculus",
+    "SKS": "3",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "2"
+  },
+  {
+    "Nama MK": "Matriks dan Ruang Vektor",
+    "Nama MK (EN)": "Matrix and Vector Spaces",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "2"
+  },
+  {
+    "Nama MK": "Organisasi dan Arsitektur Komputer",
+    "Nama MK (EN)": "Computer Organization and Architecture",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "2"
+  },
+  {
+    "Nama MK": "Pemodelan Basis Data",
+    "Nama MK (EN)": "Database Modelling",
+    "SKS": "3",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "2"
+  },
+  {
+    "Nama MK": "Analisis dan Perancangan PL",
+    "Nama MK (EN)": "Software Requirement and Design",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "3"
+  },
+  {
+    "Nama MK": "Analisis Kompleksitas Algoritma",
+    "Nama MK (EN)": "Analysis of Algorithm Complexity",
+    "SKS": "2",
+    "Status MK": "DITAWARKAN",
+    "Semester": "3"
+  },
+  {
+    "Nama MK": "Sistem Basis Data",
+    "Nama MK (EN)": "Database System",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "3"
+  },
+  {
+    "Nama MK": "Sistem Operasi",
+    "Nama MK (EN)": "Operating System",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "3"
+  },
+  {
+    "Nama MK": "Struktur Data",
+    "Nama MK (EN)": "Data Structures",
+    "SKS": "4",
+    "Status MK": "DITAWARKAN",
+    "Semester": "3"
+  },
+  {
+    "Nama MK": "Teori Bahasa dan Automata",
+    "Nama MK (EN)": "Language and Automata Theory",
+    "SKS": "2",
+    "Status MK": "DITAWARKAN",
+    "Semester": "3"
+  },
+  {
+    "Nama MK": "Teori Peluang",
+    "Nama MK (EN)": "Probability Theory",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "3"
+  },
+  {
+    "Nama MK": "Dasar Kecerdasan Artifisial",
+    "Nama MK (EN)": "Introduction to Artificial Intelligence",
+    "SKS": "3",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "4"
+  },
+  {
+    "Nama MK": "Interaksi Manusia Komputer",
+    "Nama MK (EN)": "Human Computer Interaction",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "4"
+  },
+  {
+    "Nama MK": "Jaringan Komputer",
+    "Nama MK (EN)": "Computer Network",
+    "SKS": "4",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "4"
+  },
+  {
+    "Nama MK": "Pemrograman Berorientasi Objek",
+    "Nama MK (EN)": "Object-Oriented Programming",
+    "SKS": "4",
+    "Status MK": "DITAWARKAN",
+    "Semester": "4"
+  },
+  {
+    "Nama MK": "Strategi Algoritma",
+    "Nama MK (EN)": "Algorithm Strategies",
+    "SKS": "3",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "4"
+  },
+  {
+    "Nama MK": "Wawasan Global TIK",
+    "Nama MK (EN)": "Global ICT Insight",
+    "SKS": "2",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "4"
+  },
+  {
+    "Nama MK": "Implementasi dan Pengujian PL",
+    "Nama MK (EN)": "Software Implementation and Testing",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "5"
+  },
+  {
+    "Nama MK": "Keamanan Siber",
+    "Nama MK (EN)": "Cyber Security",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "5"
+  },
+  {
+    "Nama MK": "Kecerdasan Artifisial",
+    "Nama MK (EN)": "Artificial Intelligence",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "5"
+  },
+  {
+    "Nama MK": "Komputasi Awan dan Terdistribusi",
+    "Nama MK (EN)": "Cloud and Distributed Computing",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "5"
+  },
+  {
+    "Nama MK": "Manajemen Projek TIK",
+    "Nama MK (EN)": "ICT Project Management",
+    "SKS": "3",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "5"
+  },
+  {
+    "Nama MK": "Sosio-Informatik dan Keprofesian",
+    "Nama MK (EN)": "Sosio-Informatics and Professionalisme",
+    "SKS": "2",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "5"
+  },
+  {
+    "Nama MK": "Bahasa Indonesia",
+    "Nama MK (EN)": "Indonesian Language",
+    "SKS": "2",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "5"
+  },
+  {
+    "Nama MK": "Aplikasi Berbasis Platform",
+    "Nama MK (EN)": "Platform-Based Application",
+    "SKS": "4",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "6"
+  },
+  {
+    "Nama MK": "Pembelajaran Mesin",
+    "Nama MK (EN)": "Machine Learning",
+    "SKS": "3",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "6"
+  },
+  {
+    "Nama MK": "Tata Tulis Ilmiah",
+    "Nama MK (EN)": "Scientific Writing",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "6"
+  },
+  {
+    "Nama MK": "Kewirausahaan",
+    "Nama MK (EN)": "Entrepreneurship",
+    "SKS": "2",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "6"
+  },
+  {
+    "Nama MK": "Informatika untuk Masyarakat",
+    "Nama MK (EN)": "Informatics for Society",
+    "SKS": "2",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "6"
+  },
+  {
+    "Nama MK": "MK Pilihan",
+    "Nama MK (EN)": "Elective Course",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "6"
+  },
+  {
+    "Nama MK": "MK Pilihan",
+    "Nama MK (EN)": "Elective Course",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "6"
+  },
+  {
+    "Nama MK": "Kewarganegaraan",
+    "Nama MK (EN)": "Civics",
+    "SKS": "2",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "7"
+  },
+  {
+    "Nama MK": "Bahasa Inggris untuk Karier",
+    "Nama MK (EN)": "English for Career",
+    "SKS": "3",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "7"
+  },
+  {
+    "Nama MK": "Computing Project",
+    "Nama MK (EN)": "Computing Project",
+    "SKS": "3",
+    "Status MK": "TIDAK DITAWARKAN",
+    "Semester": "7"
+  },
+  {
+    "Nama MK": "Kerja Praktik",
+    "Nama MK (EN)": "Practical Work",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "7"
+  },
+  {
+    "Nama MK": "Penulisan Proposal",
+    "Nama MK (EN)": "Proposal Writing",
+    "SKS": "2",
+    "Status MK": "DITAWARKAN",
+    "Semester": "7"
+  },
+  {
+    "Nama MK": "MK Pilihan",
+    "Nama MK (EN)": "Elective Course",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "7"
+  },
+  {
+    "Nama MK": "MK Pilihan",
+    "Nama MK (EN)": "Elective Course",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "7"
+  },
+  {
+    "Nama MK": "MK Pilihan",
+    "Nama MK (EN)": "Elective Course",
+    "SKS": "3",
+    "Status MK": "DITAWARKAN",
+    "Semester": "8"
+  },
+  {
+    "Nama MK": "Tugas Akhir",
+    "Nama MK (EN)": "Final Project",
+    "SKS": "4",
+    "Status MK": "DITAWARKAN",
+    "Semester": "8"
+  }
+]

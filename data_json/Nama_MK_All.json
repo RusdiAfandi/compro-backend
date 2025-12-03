@@ -1,0 +1,347 @@
+[
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Algoritma dan Pemrograman 1",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Kalkulus",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Logika Matematika",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Matematika Diskrit",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Statistika",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Agama",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Pancasila",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Pendidikan Karakter",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Algoritma dan Pemrograman 2",
+    "SKS": "4"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Bahasa Inggris",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Etika dalam AI",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Kalkulus Lanjut",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Matriks dan Ruang Vektor",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Organisasi dan Arsitektur Komputer",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT I",
+    "NAMA MK": "Pemodelan Basis Data",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Analisis dan Perancangan PL",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Analisis Kompleksitas Algoritma",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Sistem Basis Data",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Sistem Operasi",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Struktur Data",
+    "SKS": "4"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Teori Bahasa dan Automata",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Teori Peluang",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Dasar Kecerdasan Artifisial",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Interaksi Manusia Komputer",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Jaringan Komputer",
+    "SKS": "4"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Pemrograman Berorientasi Objek",
+    "SKS": "4"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Strategi Algoritma",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT II",
+    "NAMA MK": "Wawasan Global TIK",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Implementasi dan Pengujian PL",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Keamanan Siber",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Kecerdasan Artifisial",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Komputasi Awan dan Terdistribusi",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Manajemen Projek TIK",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Sosio-Informatik dan Keprofesian",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Bahasa Indonesia",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Aplikasi Berbasis Platform",
+    "SKS": "4"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Pembelajaran Mesin",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Tata Tulis Ilmiah",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Kewirausahaan",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "Informatika untuk Masyarakat",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "MK Pilihan",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT III",
+    "NAMA MK": "MK Pilihan",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT IV",
+    "NAMA MK": "Kewarganegaraan",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT IV",
+    "NAMA MK": "Bahasa Inggris untuk Karier",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT IV",
+    "NAMA MK": "Computing Project",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT IV",
+    "NAMA MK": "Kerja Praktik",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT IV",
+    "NAMA MK": "Penulisan Proposal",
+    "SKS": "2"
+  },
+  {
+    "TINGKAT": "TINGKAT IV",
+    "NAMA MK": "MK Pilihan",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT IV",
+    "NAMA MK": "MK Pilihan",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT IV",
+    "NAMA MK": "MK Pilihan",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "TINGKAT IV",
+    "NAMA MK": "Tugas Akhir",
+    "SKS": "4"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Analisis Jejaring Sosial",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Big Data dan AI",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Desain Interaksi",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Forensik Digital",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Generative AI",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "IoT dengan Kemampuan Cerdas",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Komputasi Paralel",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Pengolahan Bahasa Alami",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Pengolahan Citra Digital",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Process Mining",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Representasi Pengetahuan",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Sistem Keamanan Cerdas",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Sistem Multi Agen",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Sistem Pemberi Rekomendasi",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Swarm and Evolutionary Computation",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Verifikasi dan Validasi Perangkat Lunak",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Visi Komputer",
+    "SKS": "3"
+  },
+  {
+    "TINGKAT": "MK PILIHAN",
+    "NAMA MK": "Visualisasi Data",
+    "SKS": "3"
+  }
+]
