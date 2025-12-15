@@ -24,6 +24,22 @@ const getSkillsData = () => {
     }
 };
 
+// Helper to get All Course Names
+const getAllCoursesData = () => {
+    try {
+        const coursesPath = path.join(__dirname, '../../data_json/Nama_MK_All.json');
+        const coursesRaw = JSON.parse(fs.readFileSync(coursesPath, 'utf-8'));
+        
+        // Extract course names
+        const courses = coursesRaw.map(c => c["NAMA MK"]).filter(Boolean);
+        
+        return courses;
+    } catch (e) {
+        console.error("Error reading courses:", e);
+        return [];
+    }
+};
+
 // @desc    Get User Interests and Available Options
 // @route   GET /api/interests
 // @access  Private
@@ -96,6 +112,7 @@ const getRecommendations = async (req, res) => {
         }
 
         // Prepare data for AI Model
+        const courses = getAllCoursesData();
         const aiInput = {
             profile: {
                 jurusan: student.jurusan,
@@ -103,7 +120,8 @@ const getRecommendations = async (req, res) => {
                 ipk: student.ipk
             },
             academic_history: grades.map(g => ({ name: g.nama_mk, score: g.nilai })),
-            interests: student.interests
+            interests: student.interests,
+            available_courses: courses
         };
 
         // Check if API Key is set
@@ -118,22 +136,24 @@ const getRecommendations = async (req, res) => {
         }
 
         const prompt = `
-        Anda adalah konsultan akademik universitas. Berdasarkan data mahasiswa berikut, berikan rekomendasi mata kuliah atau topik studi lanjutan yang relevan.
-        
+        Anda adalah konsultan akademik universitas. Berdasarkan data mahasiswa berikut, berikan rekomendasi mata kuliah dari daftar mata kuliah yang tersedia.
+
         DATA MAHASISWA:
         ${JSON.stringify(aiInput)}
 
         INTRUKSI OUTPUT:
-        1. Analisis minat (hard/soft skills) dan riwayat nilai.
-        2. Berikan 3-5 rekomendasi mata kuliah/topik.
-        3. Jelaskan alasan singkat untuk setiap rekomendasi.
-        4. OUTPUT HARUS BERUPA JSON VALID SAJA. Gunakan format berikut:
+        1. Analisis minat (hard/soft skills) dan riwayat nilai mahasiswa.
+        2. Pilih 3-5 mata kuliah dari "available_courses" yang paling relevan.
+        3. Pastikan rekomendasi HANYA dari daftar mata kuliah yang tersedia (available_courses).
+        4. JANGAN buat nama mata kuliah baru yang tidak ada di daftar.
+        5. Jelaskan alasan singkat mengapa mata kuliah tersebut cocok berdasarkan minat dan riwayat akademik.
+        6. OUTPUT HARUS BERUPA JSON VALID SAJA. Gunakan format berikut:
         {
             "recommendations": [
                 {
-                    "name": "Nama Topik/MK",
+                    "name": "Nama Mata Kuliah (harus dari available_courses)",
                     "type": "Hard Skill/Soft Skill/Course",
-                    "reason": "Alasan rekomendasi..."
+                    "reason": "Alasan rekomendasi berdasarkan minat dan riwayat..."
                 }
             ]
         }
