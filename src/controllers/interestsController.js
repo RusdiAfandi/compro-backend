@@ -139,23 +139,28 @@ const getRecommendations = async (req, res) => {
         Anda adalah konsultan akademik universitas. Berdasarkan data mahasiswa berikut, berikan rekomendasi mata kuliah dari daftar mata kuliah yang tersedia.
 
         DATA MAHASISWA:
-        ${JSON.stringify(aiInput)}
+        ${JSON.stringify(aiInput, null, 2)}
+
+        STRUKTUR DATA:
+        - profile: Informasi profil mahasiswa (jurusan, semester, IPK)
+        - academic_history: Riwayat nilai mata kuliah (name=nama_mk, score=nilai)
+        - interests: Minat mahasiswa (hard_skills, soft_skills)
+        - available_courses: Daftar semua mata kuliah yang tersedia di universitas
 
         INTRUKSI OUTPUT:
-        1. Analisis minat (hard/soft skills) dan riwayat nilai mahasiswa.
-        2. Pilih 3-5 mata kuliah dari "available_courses" yang paling relevan.
-        3. Pastikan rekomendasi HANYA dari daftar mata kuliah yang tersedia (available_courses).
-        4. JANGAN buat nama mata kuliah baru yang tidak ada di daftar.
-        5. Jelaskan alasan singkat mengapa mata kuliah tersebut cocok berdasarkan minat dan riwayat akademik.
-        6. OUTPUT HARUS BERUPA JSON VALID SAJA. Gunakan format berikut:
+        1. Analisis minat (hard_skills & soft_skills) dan riwayat nilai (academic_history) mahasiswa.
+        2. Pertimbangkan profil mahasiswa (jurusan, semester, IPK) untuk level kesulitan yang sesuai.
+        3. Pilih 3-5 mata kuliah dari "available_courses" yang paling relevan.
+        4. Pastikan rekomendasi HANYA dari daftar mata kuliah yang tersedia (available_courses).
+        5. JANGAN buat nama mata kuliah baru yang tidak ada di daftar available_courses.
+        6. Jelaskan alasan singkat mengapa mata kuliah tersebut cocok berdasarkan minat, riwayat akademik, dan profil mahasiswa.
+        7. OUTPUT HARUS BERUPA JSON VALID SAJA. Gunakan format berikut:
         {
             "recommendations": [
                 {
                     "name": "Nama Mata Kuliah (harus dari available_courses)",
                     "type": "Hard Skill/Soft Skill/Course",
-                    "reason": "Alasan rekomendasi berdasarkan minat dan riwayat..."
-                }
-            ]
+                    "reason": "Alasan rekomendasi berdasarkan minat, riwayat akademik, dan profil..."
         }
         `;
 
