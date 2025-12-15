@@ -91,6 +91,25 @@ const updateInterests = async (req, res) => {
     }
 };
 
+// @desc    Reset User Interests
+// @route   POST /api/interests/reset
+// @access  Private
+const resetInterests = async (req, res) => {
+    try {
+        const student = await Student.findById(req.student._id);
+        student.interests = { hard_skills: [], soft_skills: [] };
+        await student.save();
+
+        res.status(200).json({
+            success: true,
+            message: "Minat berhasil direset.",
+            data: student.interests
+        });
+    } catch (error) {
+        res.status(500).json({ success: false, error: true, message: error.message });
+    }
+};
+
 // @desc    Get AI Recommendation (FR03.2)
 // @route   POST /api/interests/recommend
 // @access  Private
