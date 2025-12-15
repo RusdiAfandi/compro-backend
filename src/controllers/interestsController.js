@@ -153,14 +153,18 @@ const getRecommendations = async (req, res) => {
         3. Pilih 3-5 mata kuliah dari "available_courses" yang paling relevan.
         4. Pastikan rekomendasi HANYA dari daftar mata kuliah yang tersedia (available_courses).
         5. JANGAN buat nama mata kuliah baru yang tidak ada di daftar available_courses.
-        6. Jelaskan alasan singkat mengapa mata kuliah tersebut cocok berdasarkan minat, riwayat akademik, dan profil mahasiswa.
+        6. Untuk setiap rekomendasi, berikan alasan DETAIL yang spesifik:
+           - Hubungkan dengan hard_skills/soft_skills yang dipilih mahasiswa
+           - Sebutkan riwayat nilai yang relevan (jika ada)
+           - Pertimbangkan semester dan IPK mahasiswa
+           - Jelaskan mengapa mata kuliah ini cocok untuk pengembangan karir mahasiswa
         7. OUTPUT HARUS BERUPA JSON VALID SAJA. Gunakan format berikut:
         {
             "recommendations": [
                 {
                     "name": "Nama Mata Kuliah (harus dari available_courses)",
                     "type": "Hard Skill/Soft Skill/Course",
-                    "reason": "Alasan rekomendasi berdasarkan minat, riwayat akademik, dan profil..."
+                    "reason": "Alasan DETAIL: Mata kuliah ini cocok karena mahasiswa memiliki minat [skill tertentu] dan nilai baik di [mata kuliah terkait]. Pada semester [X] dengan IPK [Y], mata kuliah ini akan membantu pengembangan karir di bidang [bidang tertentu]."
         }
         `;
 
