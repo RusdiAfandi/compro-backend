@@ -97,6 +97,19 @@ const updateInterests = async (req, res) => {
 const getRecommendations = async (req, res) => {
     try {
         const student = await Student.findById(req.student._id);
+        
+        // Validate that interests are not empty
+        if (!student.interests || 
+            !student.interests.hard_skills || 
+            !student.interests.soft_skills ||
+            (student.interests.hard_skills.length === 0 && student.interests.soft_skills.length === 0)) {
+            return res.status(400).json({
+                success: false,
+                error: true,
+                message: "Silakan pilih minimal satu hard skill atau soft skill terlebih dahulu."
+            });
+        }
+        
         const grades = await Grade.find({ student: student._id });
 
         // Calculate current semester dynamically
