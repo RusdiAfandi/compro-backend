@@ -148,23 +148,24 @@ const getRecommendations = async (req, res) => {
         - available_courses: Daftar semua mata kuliah yang tersedia di universitas
 
         INTRUKSI OUTPUT:
-        1. Analisis minat (hard_skills & soft_skills) dan riwayat nilai (academic_history) mahasiswa.
-        2. Pertimbangkan profil mahasiswa (jurusan, semester, IPK) untuk level kesulitan yang sesuai.
-        3. Pilih 3-5 mata kuliah dari "available_courses" yang paling relevan.
+        1. Analisis minat (hard_skills & soft_skills) dan riwayat nilai (academic_history) Anda.
+        2. Pertimbangkan profil Anda (jurusan, semester, IPK) untuk level kesulitan yang sesuai.
+        3. Pilih 3-5 mata kuliah dari "available_courses" yang paling relevan untuk Anda.
         4. Pastikan rekomendasi HANYA dari daftar mata kuliah yang tersedia (available_courses).
         5. JANGAN buat nama mata kuliah baru yang tidak ada di daftar available_courses.
-        6. Untuk setiap rekomendasi, berikan alasan DETAIL yang spesifik:
-           - Hubungkan dengan hard_skills/soft_skills yang dipilih mahasiswa
-           - Sebutkan riwayat nilai yang relevan (jika ada)
-           - Pertimbangkan semester dan IPK mahasiswa
-           - Jelaskan mengapa mata kuliah ini cocok untuk pengembangan karir mahasiswa
+        6. Untuk setiap rekomendasi, berikan alasan DETAIL yang spesifik dalam bahasa Indonesia:
+           - SELALU sebutkan minimal 1 hard_skill atau soft_skill yang Anda pilih
+           - Jika memungkinkan, sebutkan 2 skills yang relevan
+           - Hubungkan langsung dengan riwayat nilai akademik (jika ada)
+           - Pertimbangkan semester dan IPK Anda untuk level kesulitan
+           - Jelaskan mengapa mata kuliah ini cocok untuk pengembangan karir Anda
         7. OUTPUT HARUS BERUPA JSON VALID SAJA. Gunakan format berikut:
         {
             "recommendations": [
                 {
                     "name": "Nama Mata Kuliah (harus dari available_courses)",
                     "type": "Hard Skill/Soft Skill/Course",
-                    "reason": "Alasan DETAIL: Mata kuliah ini cocok karena mahasiswa memiliki minat [skill tertentu] dan nilai baik di [mata kuliah terkait]. Pada semester [X] dengan IPK [Y], mata kuliah ini akan membantu pengembangan karir di bidang [bidang tertentu]."
+                    "reason": "Alasan DETAIL: Mata kuliah ini sangat cocok untuk Anda yang memiliki minat Programming dan Data Analysis. Dengan nilai baik di Algoritma Pemrograman 1, mata kuliah ini akan memperkuat kemampuan coding dan analisis data Anda. Pada semester 4 dengan IPK 3.5, mata kuliah ini akan membantu pengembangan karir di bidang Software Development dan Data Science."
         }
         `;
 
