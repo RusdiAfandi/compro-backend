@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const { updateInterests, getRecommendations, getInterests, resetInterests } = require('../controllers/interestsController');
+const { updateInterests, getRecommendations, getInterests } = require('../controllers/interestsController');
 const { protect } = require('../middleware/authMiddleware');
 
 /**
@@ -59,19 +59,5 @@ router.post('/', protect, updateInterests);
  *         description: Recommendations generated
  */
 router.post('/recommend', protect, getRecommendations);
-
-/**
- * @swagger
- * /api/interests/reset:
- *   post:
- *     summary: Reset User Interests
- *     tags: [Interests]
- *     security:
- *       - bearerAuth: []
- *     responses:
- *       200:
- *         description: Interests reset successfully
- */
-router.post('/reset', protect, resetInterests);
 
 module.exports = router;
