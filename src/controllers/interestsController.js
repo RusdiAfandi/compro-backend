@@ -201,21 +201,35 @@ const getRecommendations = async (req, res) => {
         });
 
     } catch (error) {
-        console.error("Gemini Error Full:", error);
-        console.error("Gemini Error Message:", error.message);
-        console.error("Gemini Error Status:", error.status);
+        console.error("Gemini Error:", error);
         
-        // Return actual error to client for debugging
-        return res.status(500).json({ 
-            success: false, 
-            error: true, 
-            message: "Terjadi kesalahan pada layanan AI: " + error.message,
-            debug: {
-                errorMessage: error.message,
-                errorStatus: error.status,
-                errorType: error.constructor.name
-            }
-        });
+        const errorStr = JSON.stringify(error);
+        const isQuotaError = 
+            error.status === 429 || 
+            (error.message && error.message.includes('429')) || 
+            (error.message && error.message.includes('Quota exceeded')) ||
+            errorStr.includes('429') || 
+            errorStr.includes('Quota exceeded');
+
+        // Fallback logic for demo purposes if API quota exceeded
+        if (isQuotaError) {
+             const recommendations = [
+                { name: 'Deep Learning', type: 'Course', reason: 'Rekomendasi Fallback (AI Quota Exceeded): Relevan dengan minat AI/Data.' },
+                { name: 'Network Security', type: 'Course', reason: 'Rekomendasi Fallback: Relevan dengan minat Security.' },
+                { name: 'Cloud Computing', type: 'Course', reason: 'Rekomendasi Fallback: Skill fundamental infrastruktur.' }
+            ];
+            
+            return res.status(200).json({
+                success: true,
+                error: false,
+                message: "Rekomendasi Fallback (AI Quota Habis).",
+                data: {
+                    recommendations: recommendations
+                }
+            });
+        }
+
+        res.status(500).json({ success: false, error: true, message: "Terjadi kesalahan pada layanan AI: " + error.message });
     }
 };
 
