@@ -164,11 +164,11 @@ docker-compose up -d
 
 File `.env` di folder `compro-backend-master`:
 ```env
-PORT=5001
-MONGO_URI=mongodb://localhost:27017/mahasiswa_db
-JWT_SECRET=rahasia_negara_api_mahasiswa_backend_2024
+PORT=
+MONGO_URI=
+JWT_SECRET=
 NODE_ENV=development
-GEMINI_API_KEY=AIzaSyDolFEygS8Xb5Z8SXUbcRq4CYVUsjjHuu0
+GEMINI_API_KEY=
 ```
 
 ## 📚 API Documentation
